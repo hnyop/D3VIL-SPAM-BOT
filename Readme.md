@@ -1,7 +1,7 @@
-# D3VIL SPAM BOT
+# DOLLY OP SPAM
 
 <p align="center">
-  <img src="https://telegra.ph/file/459c9bac605fa9de1207d.jpg">
+  <img src="https://te.legra.ph/file/379df2ae6ea6305124860.jpg">
 </p>
 
 
@@ -24,7 +24,7 @@
 -------------------------------------------------
 
 ## DEPLOY ON HEROKU 📍
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/D3VILGULSHAN/d3VIL-spam-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hnyop/d3VIL-spam-bot)
 ------------------------------------------------
 
 
